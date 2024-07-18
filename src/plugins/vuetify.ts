@@ -13,7 +13,8 @@ const vuetify = createVuetify({
         error: '#f44336',
         warning: '#ff9800',
         info: '#00bcd4',
-        success: '#4caf50'
+        success: '#4caf50',
+        background: '#6200ea'
       },
     },
   },
