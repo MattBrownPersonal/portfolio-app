@@ -14,7 +14,8 @@ const vuetify = createVuetify({
         warning: '#ff9800',
         info: '#00bcd4',
         success: '#4caf50',
-        background: '#6200ea'
+        background: '#6200ea',
+        text: 'white'
       },
     },
   },
